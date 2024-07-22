@@ -1,0 +1,43 @@
+body{
+   
+    background-image: url(/img/depositphotos_36373753-stock-photo-old-menu-background-vintage-paper.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+    td {
+        color: rgba(255, 255, 255, 0.986);
+    }
+
+#name{
+    color:rgb(59, 27, 5);
+    font-size: 20px;
+    font-family: fantasy;
+    text-align: 30px;
+}
+#preco{
+    color:rgb(59, 27, 5);
+    font-size: 20px;
+    font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+h1{
+    color:rgb(59, 27, 5);
+    font-size: 60px;
+    
+    text-align: center;
+}
+#fonte{
+    color:rgb(59, 27, 5);
+    font-size: 20px;  
+}
+table{
+   
+}
+h1{
+    color: antiquewhite;
+}
+.gelo{
+    color: aqua;
+}
